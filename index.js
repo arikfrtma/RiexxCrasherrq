@@ -1,12 +1,3 @@
-/* 
-By -Gyzen Html Web Bug Buat Member PT.. 
-Rules :
-• Bebas Jual
-• No Share Ke Pt Lu
-• No Sebar
-Melanggar? Gw Bl/Kick Lu Bangsat
-*/
-
 <!DOCTYPE html>
 <html lang="id">
 <head>
